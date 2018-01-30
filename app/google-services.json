@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "910121534224",
+    "firebase_url": "https://twitterfabook.firebaseio.com",
+    "project_id": "twitterfabook",
+    "storage_bucket": "twitterfabook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910121534224:android:78d1ca6e1470b867",
+        "android_client_info": {
+          "package_name": "com.example.ramsesdiezgalvan.act6pmdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910121534224-7ubu5jqjmrk8j2eepaoph1lcehu3lfvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ramsesdiezgalvan.act6pmdm",
+            "certificate_hash": "2b82a37ef60dee87cdb6c59bb30fadea8ff6edd6"
+          }
+        },
+        {
+          "client_id": "910121534224-6f4kqq1rn0javvi236md9i3ta493icel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0X20s9b4JTjayJfAj2XR94wXwd_9Trvw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910121534224-6f4kqq1rn0javvi236md9i3ta493icel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
